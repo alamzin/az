@@ -215,7 +215,7 @@ _Александр Амзин, май 2022, Рига._
 
 **Подтопление** — наводнение. _Подтопление в Ялте: жилые дома почти полностью ушли под воду в Васильевке_
 
-**Получить** (кликб.) — глагол-связка для двух и более ключевых выражений. _Ремейк Gothic получил важный хотфикс для обновления 1.0.4, исправляющий сюжетный баг с Мильтеном_ ([источник](https://www.playground.ru/gothic/news/remejk_gothic_poluchil_vazhnyj_hotfiks_dlya_obnovleniya_1_0_4_ispravlyayuschij_syuzhetnyj_bag_s_miltenom-1864938))
+**Получить** (кликб.) — глагол-связка для двух и более ключевых выражений. _Ремейк Gothic получил важный хотфикс для обновления 1.0.4, исправляющий сюжетный баг с Мильтеном_ ([источник](https://www.playground.ru/gothic/news/remejk_gothic_poluchil_vazhnyj_hotfiks_dlya_obnovleniya_1_0_4_ispravlyayuschij_syuzhetnyj_bag_s_miltenom-1864938)); _Новый бойлер Xiaomi получил двойной бак и восьмилетнюю защиту от протечек: при объеме 80 литров он способен выдать до 1120 литров горячей воды_ ([источник](https://www.ixbt.com/news/2026/08/07/426849-novyi-boiler-xiaomi-polucil-dvoinoi-bak-i-vosmiletniuiu-zashhitu-ot-protecek-pri-obieeme-80-litrov-on-sposoben-vydat-do-1120-litrov-goriacei-vody.html))
 
 **Последние годы**, **в последние годы** — с февраля 2022 года, с начала большой войны. _В последние годы на фоне стремления россиян более рационально расходовать бюджет, отмечает Роскачество_ ([источник](https://sertiki.ru/news/roskachestvo-rost-sprosa-na-zdorovoe-pitanie))
 
